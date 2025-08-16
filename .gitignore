@@ -1,0 +1,6 @@
+*.so
+*.sh
+*.json
+claude-plugin
+.claude
+.env
